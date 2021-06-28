@@ -560,11 +560,6 @@
   resolved "https://registry.yarnpkg.com/@stencil/core/-/core-2.6.0.tgz#29da96d8b6fc83e689b9f297ef3e8b59b90a676a"
   integrity sha512-QsxWayZyusnqSZrlCl81R71rA3KqFjVVQSH4E0rGN15F1GdQaFonKlHLyCOLKLig1zzC+DQkLLiUuocexuvdeQ==
 
-"@stencil/react-output-target@^0.0.9":
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/@stencil/react-output-target/-/react-output-target-0.0.9.tgz#b225611c5743f0285c37d92bb47d9369ba462c54"
-  integrity sha512-t2sSkm/VGftBqewK47eZonaHIXW7CYWlsDy6Ln4jqNVpr93CuPWkg7rsnPiZrJrU1NBuTgA0hC2xoRcAJVm7Sw==
-
 "@szmarczak/http-timer@^1.1.2":
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/@szmarczak/http-timer/-/http-timer-1.1.2.tgz#b1665e2c461a2cd92f4c1bbf50d5454de0d4b421"
@@ -4309,10 +4304,10 @@ walker@^1.0.7:
   dependencies:
     makeerror "1.0.x"
 
-was-this-helpful@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/was-this-helpful/-/was-this-helpful-0.0.1.tgz#2f51ce24cae6fefe34bcb579b77d7a4f25293b88"
-  integrity sha512-gL0lRSjUBL2WgDQ+LTqeXkEhWMPlaQPET1V+OjwGkeaIq7GZPvq6DMRgn62+ZEL59oGEDwG+yEjt7V6N+VSONA==
+was-this-helpful@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/was-this-helpful/-/was-this-helpful-0.0.2.tgz#27d992fe2dacb334ec673a49d13223f3eb9523cd"
+  integrity sha512-KXMIFHVk6yLSRfE6ZaUjXGgmKoY/4sGR3f+6FvzVOu49Pq+//aX7rigllmFJigRfnu8UQ29hLUNR4z9F2tqUvg==
   dependencies:
     "@stencil/core" "^2.0.1"
     stencil-inline-svg "^1.1.0"
