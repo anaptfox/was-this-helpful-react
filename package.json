@@ -1,7 +1,7 @@
 {
   "name": "was-this-helpful-react",
   "sideEffects": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React specific wrapper for was-this-helpful",
   "scripts": {
     "build": "npm run clean && npm run compile",
